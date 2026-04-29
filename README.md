@@ -34,6 +34,6 @@ The application supports automatic reconnection and session persistence. If a co
 
 Keyboard shortcuts and quick navigation features enhance efficiency. Users can switch between sessions, refresh connections, or disconnect inactive sessions with minimal effort. For example, during troubleshooting, an administrator can rapidly cycle through multiple servers to check logs or service states.
 
-Credential profiles further optimize workflows. Instead of entering credentials repeatedly, users can define reusable profiles and assign them to groups or individual servers. This reduces authentication overhead while maintaining consistency.
+Credential profiles streamline routine operations. Instead of re-entering login details each time, users can create reusable profiles and apply them to specific servers or entire groups. This minimizes authentication effort while ensuring consistent access settings.
 
-Finally, RDCMan allows session state control, including logoff, disconnect, and reset operations. This enables administrators to manage remote sessions directly without needing separate tools, improving response time during maintenance or incident handling.
+RDCMan also provides control over session states, including logoff, disconnect, and reset actions. This allows administrators to handle remote sessions directly within the tool, speeding up maintenance tasks and incident response.
